@@ -80,7 +80,7 @@ export default function App() {
     <main
       className="
         min-h-screen
-        flex items-center justify-center
+        flex justify-center
         px-4 py-10
       "
     >
